@@ -22,7 +22,7 @@ const routes = [
     ]
   },
   {
-    path: '/top10',
+    path: '/ver/top10',
     component: () => import('layouts/MyLayout.vue'),
     children: [
       { path: '', component: () => import('pages/Top10.vue') }
