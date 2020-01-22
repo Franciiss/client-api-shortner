@@ -27,7 +27,7 @@
     >
       <q-list>
         <q-item-label header>End Points</q-item-label>
-        <q-item clickable tag="a" href="http://localhost:8080/#/api-shortner">
+        <q-item clickable tag="a" href="http://cliente-api-shortner.surge.sh/#/api-shortner">
           <q-item-section avatar>
             <q-icon name="school" />
           </q-item-section>
@@ -36,7 +36,7 @@
             <q-item-label caption>PUT: Criação de URL's com ou sem ALIAS</q-item-label>
           </q-item-section>
         </q-item>
-        <q-item clickable tag="a" href="http://localhost:8080/#/pesquisar-alias">
+        <q-item clickable tag="a" href="http://cliente-api-shortner.surge.sh/#/pesquisar-alias">
           <q-item-section avatar>
             <q-icon name="chat" />
           </q-item-section>
@@ -45,7 +45,7 @@
             <q-item-label caption>GET: Requsisição de um documento pelo ALIAS</q-item-label>
           </q-item-section>
         </q-item>
-        <q-item clickable tag="a" href="http://localhost:8080/top10">
+        <q-item clickable tag="a" href="http://cliente-api-shortner.surge.sh/#/ver/top10">
           <q-item-section avatar>
             <q-icon name="code" />
           </q-item-section>
